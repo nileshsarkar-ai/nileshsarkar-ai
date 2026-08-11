@@ -2,7 +2,7 @@
 
 # Nilesh Sarkar
 
-**AI Researcher · World Models · Mechanistic Interpretability · Model Compression**
+**AI Researcher · Representation Learning**
 
 [Portfolio](https://nileshsarkar-ai.github.io/) ·
 [Google Scholar](https://scholar.google.com/citations?user=9mnmA5YAAAAJ&hl=en) ·
@@ -13,43 +13,42 @@
 
 ---
 
-I’m an AI researcher currently working at **Lossfunk** on **world models, continual learning, and game-playing agents in sparse-reward environments**.
+I’m interested in how neural networks learn, organize, and compress representations.
 
-My broader research interests are in understanding and improving learned representations in neural networks — particularly through **mechanistic interpretability, sparse autoencoders, knowledge distillation, and model compression**.
+My current research spans **world models, mechanistic interpretability, sparse autoencoders, knowledge distillation, and efficient language models**.
 
-### Research
+### Research Interests
 
-- **World Models & Continual Learning**  
-  Learning useful representations and behaviors for agents operating under sparse rewards.
+- Representation Learning
+- World Models
+- Mechanistic Interpretability
+- Sparse Autoencoders
+- Knowledge Distillation
+- Model Compression
+- Language Models
 
-- **Mechanistic Interpretability & Sparse Autoencoders**  
-  Studying transformer representations through SAEs, feature attribution, and attention-circuit analysis.
+### Cool Projects
 
-- **Knowledge Distillation & Compression**  
-  Investigating relationships between sparsity, representation width, distillation, pruning, and quantization.
+**Sparse Autoencoders & Minimum Width**  
+Studying how SAE width, sparsity, and reconstruction interact across transformer layers and training checkpoints.
 
-- **Language Models**  
-  Efficient training and inference, diffusion language models, and low-resource Indic NLP.
+**World Models**  
+Exploring learned representations and agent behavior in sparse-reward environments.
 
-- **AI × Science**  
-  Experiments in medical imaging and protein structure prediction.
+**Mechanistic Interpretability**  
+Experiments with feature attribution, activation analysis, and transformer circuits.
 
-### Selected work
-
-**Knowledge Distillation / Sparse Autoencoders**  
-Theoretical and empirical work on minimum SAE dictionary width, including experiments across Pythia-410M layers and training checkpoints.
-
-**Medical AI — PCOS Detection**  
-Benchmarking 18 CNN and transformer architectures on deduplicated ultrasound data.
+**Medical AI**  
+Benchmarking CNN and transformer architectures for ultrasound-based PCOS detection.
 
 **Protein Structure Prediction**  
-Experiments with folding dynamics, confidence calibration, and ESMFold-based structure prediction.
+Experiments with folding dynamics, confidence estimation, and protein representations.
 
 **Efficient Language Models**  
-Fine-tuning and compressing 0.5B–7B parameter language models, including deployment on resource-constrained hardware.
+Fine-tuning, distillation, quantization, and deployment of small language models.
 
 ---
 
-Currently completing a **B.Tech in Artificial Intelligence & Robotics at Dayananda Sagar University (2023–2027)**.
+B.Tech in **Artificial Intelligence & Robotics** at Dayananda Sagar University.
 
-For research discussions or collaborations: **nileshsarkar.cs@gmail.com**
+**nileshsarkar.cs@gmail.com**
