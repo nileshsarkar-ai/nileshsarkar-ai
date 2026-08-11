@@ -48,7 +48,3 @@ Experiments with folding dynamics, confidence estimation, and protein representa
 Fine-tuning, distillation, quantization, and deployment of small language models.
 
 ---
-
-B.Tech in **Artificial Intelligence & Robotics** at Dayananda Sagar University.
-
-**nileshsarkar.cs@gmail.com**
